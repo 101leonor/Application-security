@@ -1,8 +1,1 @@
-# ApplicationSecurity
-Application Security Project
-
-Front-end:
-- index.html and style.css -> Login page
-- web.html and webstyle.css -> Labelling page
-  
-
+Implementation of a web application applying Security by Design
